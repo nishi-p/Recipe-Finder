@@ -1,0 +1,9 @@
+https://restfulapi.net/
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/
+https://www.itglue.com/blog/api-beginners-terminology/
+https://jquery.com/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
+https://www.w3schools.com/js/js_json_intro.asp
+https://www.w3schools.com/whatis/whatis_ajax.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
